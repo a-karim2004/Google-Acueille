@@ -20,7 +20,9 @@ L’objectif est de pratiquer la **structuration sémantique**, la **mise en for
 
 - **HTML5**  
 - **CSS3** (flexbox, responsive design, hover, variables CSS) est surtous le box_shadow
-- **Aucune bibliothèque ou framework externe**
+- **Ici vous verrais une capture d'écrant de ma page**
+
+![](./google.png)
 
 
 
